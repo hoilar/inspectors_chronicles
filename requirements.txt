@@ -1,0 +1,7 @@
+customtkinter==5.2.1
+darkdetect==0.8.0
+numpy==1.26.2
+packaging==23.2
+Pillow==10.1.0
+PyAudio==0.2.14
+Wave==0.0.2
